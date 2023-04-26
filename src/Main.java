@@ -10,7 +10,7 @@ public class Main {
         viewShowTodoList();
     }
 
-    // show todo list
+    // show todo list s
     public static void showTodoList() {
         System.out.println("TODO-LIST");
         for (var i = 0; i < model.length; i++) {
